@@ -1,5 +1,5 @@
 # FIAP_TC5
-Case Passos Mágicos.
+## Case Passos Mágicos.
 
 Mudando a vida de crianças e jovens por meio da educação.
 
@@ -30,7 +30,7 @@ de melhoria no processo atual. Além da prática de análise de dados e storytel
 esse desafio também traz o desafio do desenvolvimento de um modelo preditivo.
 
 
-Você pode conhecer mais sobre o projeto aqui: 
+Você pode conhecer mais sobre o projeto aqui: "https://passosmagicos.org.br/quem-somos/"
 
 Perguntas para ser respondidas na análise: 
 
