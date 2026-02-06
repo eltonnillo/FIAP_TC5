@@ -80,17 +80,21 @@ Sobre a entrega
 A sua entrega deve conter:
 
 ✓ Link do GitHub contendo os códigos utilizados para a limpeza e análise 
-de dados. 
+de dados.
+
 ✓ Apresentação do storytelling em um formato de apresentação (pode 
-ser um PPT ou PDF). 
+ser um PPT ou PDF).
+
 ✓ Notebook Python com o modelo preditivo da análise de risco de 
 defasagem, demonstrando as etapas de: feature engineering; 
 separação dos dados em treino e teste; modelagem preditiva; 
-avaliação dos resultados;  
+avaliação dos resultados; 
+
 ✓ Construir uma aplicação no Streamlit para disponibilizar o modelo 
 treinado para a Passos Mágicos utilizar como solução preditiva via 
 aplicação de dados. Deve ser realizado o deploy da aplicação no 
-ambiente Community Cloud. 
+ambiente Community Cloud.
+
 ✓ Vídeo de até 5 (cinco) minutos com pelo menos uma pessoa do grupo 
 para apresentar os resultados da análise, contando todo o storytelling 
 e resultados do modelo preditivo.
