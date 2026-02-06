@@ -69,11 +69,16 @@ probabilidade do aluno ou aluna entrar em risco de defasagem.
 consistente ao longo do ciclo nas diferentes fases (Quartzo, Ágata, Ametista e 
 Topázio), confirmando o impacto real do programa?
 
+11. Insights e criatividade: Você pode adicionar mais insights e pontos 
+de vista não abordados nas perguntas, utilize a criatividade e a análise dos dados 
+para trazer sugestões para a Passos Mágicos.
 
+Base de dados e dicionário de dados: DATATHON "https://drive.google.com/drive/folders/1Z1j6uzzCOgjB2a6i3Ym1pmJRsasfm7cD"
 
-Base de dados e dicionário de dados: DATATHON 
-Sobre a entrega 
-A sua entrega deve conter: 
+Sobre a entrega
+
+A sua entrega deve conter:
+
 ✓ Link do GitHub contendo os códigos utilizados para a limpeza e análise 
 de dados. 
 ✓ Apresentação do storytelling em um formato de apresentação (pode 
